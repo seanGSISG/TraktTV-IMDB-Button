@@ -6,6 +6,7 @@ This userscript adds Trakt.tv functionality to both IMDb and Google search pages
   Two buttons are added in the Genre section:
   - **Open Trakt:** Opens the corresponding Trakt.tv page for the IMDb title.
   - **Add to List:** Adds the title to your custom Trakt.tv list (by default, "watchlist").
+![image](https://github.com/user-attachments/assets/5d7cf0fd-90d4-4d3c-ac19-ed0c153014cb)
 
 - **On Google Search Pages:**  
   When you search on Google and your query starts with a trigger:
@@ -15,6 +16,7 @@ This userscript adds Trakt.tv functionality to both IMDb and Google search pages
   The script then adds two buttons at the top of the search results:
   - **Open Trakt Search:** Opens Trakt.tv’s search page for your query.
   - **Add Top Result to List:** Searches Trakt for the top result and adds that movie or show to your custom list.
+![image](https://github.com/user-attachments/assets/a1b8d8d0-43d8-47d0-b4b2-84d7784ef916)
 
 ## Installation
 
