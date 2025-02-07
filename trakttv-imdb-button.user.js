@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         Trakt.tv Buttons for IMDb and Google Search (with !m and !t triggers)
-// @namespace    http://your.namespace.here
+// @namespace    https://github.com/seanGSISG
+// @downloadURL  https://github.com/seanGSISG/TraktTV-IMDB-Button/raw/refs/heads/main/trakttv-imdb-button.user.js
+// @updateURL    https://github.com/seanGSISG/TraktTV-IMDB-Button/raw/refs/heads/main/trakttv-imdb-button.user.js
 // @version      1.5
 // @description  On IMDb pages, adds buttons to open Trakt and add the title to your list. On Google search pages, if the query starts with "!m " (movies) or "!t " (TV shows), adds buttons for Trakt search and adding the top result.
 // @match        https://www.imdb.com/title/tt*
